@@ -21,11 +21,11 @@ UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/vinitgodaragodara
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/POETRYORBIT")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/VX_DANGER_ZONE")
+INSTAGRAM = os.getenv("INSTAGRAM", "")
+YOUTUBE = os.getenv("YOUTUBE", "")
+GITHUB = os.getenv("GITHUB", "https://github.com/vinitgodaragodara9-spec/Ishu.bit")
 DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
