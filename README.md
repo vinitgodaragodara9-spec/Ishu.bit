@@ -14,8 +14,8 @@
 
 > **𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐓𝐢𝐦𝐞:** `1-3 seconds` | **𝐒𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲:** `99.9% Uptime`
 
-[![Support Channel](https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=telegram)](https://t.me/ShrutiBots)
-[![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/ShrutiBotSupport)
+[![Support Channel](https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=telegram)](https://t.me/POETRYORBIT)
+[![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/VX_DANGER_ZONE)
 [![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/WTF_WhyMeeh)
 
 [![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/NoxxOP/ShrutiMusic/fork)
@@ -32,7 +32,7 @@
 
 | **𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦** | **𝐃𝐞𝐩𝐥𝐨𝐲 𝐍𝐨𝐰** | **𝐈𝐧𝐟𝐨** |
 |:---:|:---:|:---:|
-| **𝐇𝐞𝐫𝐨𝐤𝐮** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic) | 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐃𝐞𝐩𝐥𝐨𝐲 |
+| **𝐇𝐞𝐫𝐨𝐤𝐮** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/vinitgodaragodara9-spec/Ishu.bit) | 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐃𝐞𝐩𝐥𝐨𝐲 |
 | **𝐑𝐞𝐧𝐝𝐞𝐫** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Render-black?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/NoxxOP/ShrutiMusic) | 𝟏𝟎𝟎% 𝐅𝐫𝐞𝐞 |
 | **𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭** | [![View](https://img.shields.io/badge/Simple%20Bot-black?style=for-the-badge&logo=github)](https://github.com/NoxxOP/ShrutixMusic) | 𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭 |
 
@@ -216,7 +216,7 @@ bash start
 
 <div align="center">
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/vinitgodaragodara9-spec/Ishu.bit)
 
 </div>
 
@@ -275,11 +275,11 @@ bash start
 
 ---
 
-## 📊 𝐒𝐭𝐚𝐭𝐬
+## 📊 𝐒𝐭𝐚
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
+![Repo Size]=black&logo=github&logoColor=black&style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
 ![License](https://img.shields.io/github/license/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/NoxxOP/ShrutiMusic?color=blue&logo=github&logoColor=green&style=for-the-badge)
